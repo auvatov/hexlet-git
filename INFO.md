@@ -1,3 +1,3 @@
-new text
 experiment with amend
-new data
+new line for experiments with -i
+new line2 for experiments with -i
